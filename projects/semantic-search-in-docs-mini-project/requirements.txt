@@ -1,0 +1,5 @@
+langchain-groq
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
